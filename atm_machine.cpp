@@ -75,3 +75,18 @@ void checkBalance() {
     cout << endl;
     cout << "------------------------------" << endl;
 }
+
+void deposit() {
+    double amount;  // Shuma qe do te depozitoje
+
+
+    cout << endl;
+    cout << "------------------------------" << endl;
+    cout << "        DEPOZITIM PARASH        " << endl;
+    cout << "------------------------------" << endl;
+    cout << endl;
+
+
+    // Shfaq balance aktuale per informacion
+    cout << "Balance aktuale: " << balance << " Leke" << endl;
+    cout << endl;
