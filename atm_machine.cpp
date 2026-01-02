@@ -8,8 +8,21 @@ void checkBalance();
 void deposit();
 void withdraw();
 
-int main() {
+int main()
+{
+  cout << "=== Mire se vini ne ATM ===" << endl;
 
+  if (verifyPin())
+  {
+    displayMenu();
+  }
+  else
+  {
+    cout << "Llogaria u bllokua!" << endl;
+  }
+
+  cout << "Faleminderit!" << endl;
+  return 0;
 }
 
 void displayMenu()
