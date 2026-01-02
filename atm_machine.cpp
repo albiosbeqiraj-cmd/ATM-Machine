@@ -77,11 +77,11 @@ void checkBalance() {
 }
 
 void deposit() {
-    double amount;
+    double amount;  
 
     cout << endl;
     cout << "------------------------------" << endl;
-    cout << "        DEPOZITIM PARASH        " << endl;
+    cout << "       DEPOZITIM PARASH       " << endl;
     cout << "------------------------------" << endl;
     cout << endl;
 
@@ -92,23 +92,19 @@ void deposit() {
     cin >> amount;
     cout << endl;
 
-    // Validimi: kontrollo qe shuma eshte pozitive
     if (amount > 0) {
-        // Shuma eshte e vlefshme
-        // Shto shumen ne balance
         balance = balance + amount;
 
-        // Shfaq mesazhin e suksesit
         cout << "Depozitimi u krye me sukses!" << endl;
         cout << endl;
         cout << "Shuma e depozituar: " << amount << " Leke" << endl;
         cout << "Balance e re: " << balance << " Leke" << endl;
     }
     else {
-        // Shuma eshte 0 ose negative - gabim
         cout << "GABIM: Shuma duhet te jete me e madhe se 0!" << endl;
         cout << "Depozitimi nuk u krye." << endl;
     }
 
     cout << endl;
     cout << "------------------------------" << endl;
+}
