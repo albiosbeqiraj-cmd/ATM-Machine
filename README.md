@@ -1,5 +1,5 @@
 # ATM-Machine
-## Ekipi Realizues (Grupi X)
+## Ekipi Realizues (Grupi 44)
 Ky projekt është realizuar në kuadër të lëndës "Veglat Bazë Softuerike".
 
 * **Anëtari 1:** Emri Mbiemri - (Task 1: Main & Menu)
