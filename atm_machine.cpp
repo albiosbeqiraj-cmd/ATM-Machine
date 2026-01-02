@@ -8,9 +8,12 @@ void checkBalance();
 void deposit();
 void withdraw();
 
+double balance;
+
 int main()
 {
   cout << "=== Mire se vini ne ATM ===" << endl;
+  balance = 0;
 
   if (verifyPin())
   {
@@ -60,4 +63,15 @@ void displayMenu()
       cout << "Zgjedhje e gabuar!" << endl;
     }
   }
+}
+
+void checkBalance() {
+    cout << endl;
+    cout << "------------------------------" << endl;
+    cout << "        BALANCE E LLOGARISE     " << endl;
+    cout << "------------------------------" << endl;
+    cout << endl;
+    cout << "  Balance juaj aktuale: " << balance << " Leke" << endl;
+    cout << endl;
+    cout << "------------------------------" << endl;
 }
