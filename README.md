@@ -1,8 +1,13 @@
-# ATM-Machine
-## Ekipi Realizues (Grupi X)
-Ky projekt është realizuar në kuadër të lëndës "Veglat Bazë Softuerike".
+# ATM Machine Simulator
 
-* **Anëtari 1:** Emri Mbiemri - (Task 1: Main & Menu)
-* **Anëtari 2:** Emri Mbiemri - (Task 2: Authentication)
-* **Anëtari 3:** Emri Mbiemri - (Task 3: Balance & Deposit)
-* **Anëtari 4:** Emri Mbiemri - (Task 4: Withdraw)
+## Përshkrimi
+
+Ky projekt simulon funksionimin e një ATM të thjeshtë bankare. Është zhvilluar si projekt grupi për të mësuar bashkëpunimin me Git dhe GitHub.
+
+## Karakteristikat
+
+- Verifikimi i PIN-it (3 tentativa)
+- Shikimi i balancës
+- Depozitimi i parave
+- Tërheqja e parave
+- Validimi i inputeve
