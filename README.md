@@ -3,6 +3,6 @@
 Ky projekt është realizuar në kuadër të lëndës "Veglat Bazë Softuerike".
 
 * **Anëtari 1:** Arona Krasniqi - (Task 1: Main & Menu)
-* **Anëtari 2:** Emri Mbiemri - (Task 2: Authentication)
-* **Anëtari 3:** Dea Kukaj - (Task 3: Balance & Bool verifyPin )
-* **Anëtari 4:** Emri Mbiemri - (Task 4: Withdraw)
+* **Anëtari 2:** Dea Kukaj - (Task 2: Balance & Bool verifyPin )
+* **Anëtari 3:** Albios Beqiraj - (Task 3: Deposit)
+* **Anëtari 4:** Era Gashi - (Task 4: Withdraw)
