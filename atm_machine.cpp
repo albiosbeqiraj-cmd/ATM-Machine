@@ -100,3 +100,36 @@ void checkBalance() {
     cout << endl;
     cout << "------------------------------" << endl;
 }
+
+void deposit() {
+    double amount;  
+
+    cout << endl;
+    cout << "------------------------------" << endl;
+    cout << "       DEPOZITIM PARASH       " << endl;
+    cout << "------------------------------" << endl;
+    cout << endl;
+
+    cout << "Balance aktuale: " << balance << " Leke" << endl;
+    cout << endl;
+
+    cout << "Vendosni shumen per depozitim: ";
+    cin >> amount;
+    cout << endl;
+
+    if (amount > 0) {
+        balance = balance + amount;
+
+        cout << "Depozitimi u krye me sukses!" << endl;
+        cout << endl;
+        cout << "Shuma e depozituar: " << amount << " Leke" << endl;
+        cout << "Balance e re: " << balance << " Leke" << endl;
+    }
+    else {
+        cout << "GABIM: Shuma duhet te jete me e madhe se 0!" << endl;
+        cout << "Depozitimi nuk u krye." << endl;
+    }
+
+    cout << endl;
+    cout << "------------------------------" << endl;
+}
