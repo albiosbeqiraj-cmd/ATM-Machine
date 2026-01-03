@@ -27,35 +27,33 @@ int main()
   cout << "Faleminderit!" << endl;
   return 0;
 }
-
 bool verifyPin()
 {
-    int pin;
-    int correctPin = 1234;
-    int attempts = 3;
+  int pin;
+  int correctPin = 1234;
+  int attempts = 3;
 
-    while (attempts > 0)
+  while(attempts > 0)
+  {
+    cout<<"Vendosni PIN-in:";
+    cin>>pin;
+
+    if(pin == correctPin)
     {
-        cout << "Vendosni PIN-in: ";
-        cin >> pin;
-
-        if (pin == correctPin)
-        {
-            cout << "PIN i sakte!" << endl;
-            return true;
-        }
-        else
-        {
-            attempts--;
-            cout << "PIN i gabuar! Tentativa te mbetura: "
-                 << attempts << endl;
-        }
+      cout<<"PIN i saktë!"<<endl;
+      return true;
     }
-    return false;
+    else
+    {
+      attempts--;
+      cout<<"PIN i gabuar! Tentativa të mbetura:" <<attempts <<endl;
+    }
+  }
+  return false;
 }
 
-
-void displayMenu()
+      
+  void displayMenu()
 {
   int choice;
 
