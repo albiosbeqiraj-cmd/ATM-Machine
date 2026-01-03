@@ -50,3 +50,13 @@ Ky projekt simulon funksionimin e një ATM të thjeshtë bankare. Është zhvill
   - Zhvilloi funksionin e tërheqjes së parave, duke kontrolluar që përdoruesi të mos tërheqë më shumë se gjendja e tij dhe duke siguruar mesazhe të qarta gabimesh.
 
 ---
+
+## Udhëzime për Bashkëpunim
+
+- Gjithmonë krijoni një **branch të ri për çdo task**  
+- Bëni **commit dhe push** rregullisht për të shmangur konfliktet  
+- Para se të bëni merge në branch-in `main`, përdorni **pull** për të siguruar që versioni juaj është i përditësuar  
+
+---
+
+Ky README është i dizajnuar për t’u përdorur si **udhëzues për grupin**, si dhe si **prezantim i projektit për GitHub**, duke përmbledhur qartë funksionet, anëtarët dhe objektivat.  
