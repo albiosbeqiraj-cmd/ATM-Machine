@@ -1,7 +1,25 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ATM-Machine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ATM-Machine\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ATM-Machine\\atm_machine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:atm_machine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\0d2cc11f-1827-45fa-8b60-344c0b1d640b_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\abced76b-a3c0-4e5b-a0ea-51073e85d598_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\balance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\76fa439f-73a7-4304-8345-28b7f8574937_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\withdraw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,15 +39,79 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ATM-Machine\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ATM-Machine\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-03T14:04:30.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "withdraw.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\76fa439f-73a7-4304-8345-28b7f8574937_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\withdraw.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\76fa439f-73a7-4304-8345-28b7f8574937_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\withdraw.cpp",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\76fa439f-73a7-4304-8345-28b7f8574937_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\withdraw.cpp [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\76fa439f-73a7-4304-8345-28b7f8574937_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\withdraw.cpp [Read Only]",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T00:07:38.885Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "balance.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\abced76b-a3c0-4e5b-a0ea-51073e85d598_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\balance.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\abced76b-a3c0-4e5b-a0ea-51073e85d598_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\balance.cpp",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\abced76b-a3c0-4e5b-a0ea-51073e85d598_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\balance.cpp [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\abced76b-a3c0-4e5b-a0ea-51073e85d598_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\balance.cpp [Read Only]",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T00:07:17.943Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\0d2cc11f-1827-45fa-8b60-344c0b1d640b_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\0d2cc11f-1827-45fa-8b60-344c0b1d640b_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\0d2cc11f-1827-45fa-8b60-344c0b1d640b_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\0d2cc11f-1827-45fa-8b60-344c0b1d640b_atm-machine-cpp.zip.atm-machine-cpp.zip\\atm-machine-cpp\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T23:48:35.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "atm_machine.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ATM-Machine\\atm_machine.cpp",
+              "RelativeDocumentMoniker": "atm_machine.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ATM-Machine\\atm_machine.cpp",
+              "RelativeToolTip": "atm_machine.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T23:36:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
