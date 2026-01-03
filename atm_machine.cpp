@@ -28,6 +28,33 @@ int main()
   return 0;
 }
 
+bool verifyPin()
+{
+    int pin;
+    int correctPin = 1234;
+    int attempts = 3;
+
+    while (attempts > 0)
+    {
+        cout << "Vendosni PIN-in: ";
+        cin >> pin;
+
+        if (pin == correctPin)
+        {
+            cout << "PIN i sakte!" << endl;
+            return true;
+        }
+        else
+        {
+            attempts--;
+            cout << "PIN i gabuar! Tentativa te mbetura: "
+                 << attempts << endl;
+        }
+    }
+    return false;
+}
+
+
 void displayMenu()
 {
   int choice;
