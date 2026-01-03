@@ -146,4 +146,19 @@ void withdraw() {
     cin >> amount;
     cout << endl;
 
+
+    if (amount > balance) {
+        cout << "GABIM: Fonde te pamjaftueshme!" << endl;
+    }
+    else if (amount <= 0) {
+        cout << "GABIM: Shuma duhet te jete pozitive!" << endl;
+    }
+    else {
+        balance = balance - amount;
+        cout << "Terheqja u krye me sukses!" << endl;
+        cout << "Ju terhoqet: " << amount << " Leke" << endl;
+        cout << "Balance e mbetur: " << balance << " Leke" << endl;
+    }
+    cout << "------------------------------" << endl;
+
 }
