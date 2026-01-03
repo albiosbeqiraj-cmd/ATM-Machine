@@ -133,3 +133,17 @@ void deposit() {
     cout << endl;
     cout << "------------------------------" << endl;
 }
+
+void withdraw() {
+    double amount;
+
+    cout << endl;
+    cout << "------------------------------" << endl;
+    cout << "         TERHEQJE PARASH      " << endl;
+    cout << "------------------------------" << endl;
+    cout << "Balance aktuale: " << balance << " Leke" << endl;
+    cout << "Vendosni shumen qe doni te terhiqni: ";
+    cin >> amount;
+    cout << endl;
+
+}
